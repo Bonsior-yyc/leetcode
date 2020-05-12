@@ -1,4 +1,6 @@
 # leetcode刷题笔记
+---
+May 1st, 2020
 
 这是yanyuchen的leetcode刷题笔记
 
@@ -10,4 +12,7 @@
 
 争取每天一道题
 
-May 1st, 2020
+---
+May 13th, 2020
+
+之前5月5号的时候，因为懒，leetcode停滞了一段时间，现在抓紧时间全部补回来
