@@ -1,0 +1,6 @@
+.gitignore
+difficult/.DS_Store
+normal/.DS_Store
+simple/.DS_Store
+image/.DS_Store
+.DS_Store
